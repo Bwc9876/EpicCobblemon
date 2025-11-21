@@ -1,0 +1,13 @@
+name = "Cobblemon Move Inspector"
+filename = "CobblemonMoveInspector-fabric-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MqcGBDhG/versions/NzRyqZFk/CobblemonMoveInspector-fabric-1.2.0.jar"
+hash-format = "sha512"
+hash = "7e66987e75a903214c8a2d4958b810df00b37c2c185f52d733803a620036dc74e7f76c360bdf348338f20d1dc04d5912f7d747173e611e373f51f22fd4ccc3b8"
+
+[update]
+[update.modrinth]
+mod-id = "MqcGBDhG"
+version = "NzRyqZFk"
