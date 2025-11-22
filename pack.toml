@@ -1,16 +1,13 @@
-name = "Epic Cobblemon"
-author = "Bwc9876"
+name = "Gayblemon Neo"
+author = "Ellis, Ben, & Cobblemon Contributors"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7ee38d3f658540c88e43e2947499444ce54c70989a47ed8b351d9492bbf844dd"
+hash = "1e005f65d74c6559a4582b9711c99d87003feca6c6de703d9ddf63731bd01e67"
 
 [versions]
-fabric = "0.18.1"
 minecraft = "1.21.1"
-
-[options]
-acceptable-game-versions = ["1.21"]
+neoforge = "21.1.215"
