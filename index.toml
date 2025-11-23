@@ -565,6 +565,11 @@ file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
 hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "e4665a4ea2f5283d3d95ebd88199687e4dfd5b5002ccce20d3fccd97475c6911"
 metafile = true
@@ -646,37 +651,32 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-box-link.pw.toml"
-hash = "0a691139637e2fc01ba9424fafe38eebd808280d3b84401ab3c48e44d9370fe4"
+hash = "bd797d76ada01e718630cab12be8559c0f920a9c03fd3a8281df4a604f50f68e"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "e9dcd8b6d268a17d322f0de5491c3ec4bb225ba2963aafe8c957251dc427287a"
+hash = "f9330adcafe34384b3e9c58447aa32ef2a5979924c21d1b9e7edb6f280806d0d"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "a58d17b41297ccd22fb1e6be18b60c2f556b6cfb8718ee24480066e91d6fad18"
+hash = "c808a0e1fce01c6832f8fcc281dabc6946e7a03ad395b3c10a4d16297e9eda17"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-move-inspector.pw.toml"
-hash = "7655c2066b628358f7388a690f3b492f94e27dbd571e42213ee18970d7452918"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "6fc2893a730f9a99a9807edfcc0b0a98c19f420d5ce944aad3a478abc936aec8"
+hash = "784184013f308a4fbec92b2ab5610969ca33ec547fd953fcc9d50cd2095d63e2"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "31ff08189acaf2ac2d89f57b7b0bfc4e30c0218c1fd775012e88879ba670a64c"
+hash = "37f6a0d23686d12c0b41112bd74174afc528a42670ca23fb5bf906c37f32c42c"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "18f45db393d99493c00150c2d4a74d927fc1eccb575629ef1a1fa72ef950b7ff"
+hash = "708992ec10446ace4d3face03d27fa0850c3dbf24853c6c084e30de89ae8456d"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "57bddfb35fd9e25cf77d7a318e73c79420f27025e7fcc41adb57e69568b46182"
+hash = "1824d1cc8f4f82a88972b9220dc6806c05968d651fb38f6bfe69e4d8215fc0ed"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "5295b04ce2d1cd0953acb201990dc5a78b3a334f127ab8cadbdcb83d3f4bc301"
+hash = "5f702480ec907a39e31988adad0b542969cc6b0c97091f43081acf37bc456f0f"
 metafile = true
 
 [[files]]
@@ -911,17 +911,17 @@ metafile = true
 
 [[files]]
 file = "mods/rad-gyms.pw.toml"
-hash = "414393348a2b7693ad6f0342f4b79ed01d0dfd5077623eb341e91fdc1c469466"
+hash = "48e0803814c58e202353c593b83747bee1bf0ea9344d2d98eadcccd596e12268"
 metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "8ba22e5eece0fd37c9415d193a4e77905ff2d55389a8c3a74548c8a4a6185e4d"
+hash = "a7fd534d041a2b8b0c5f92bceb96ab25940553f63a4b984221c8367b70ec242c"
 metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "f3938a56907b2569b548e945e9b2c0e57e055f73e4342f244bbef04160df04c0"
+hash = "b5cde9029f8ae6c2ae5f7b2f09319bf4d7f5f986a9a5a0d74c15e210e5557674"
 metafile = true
 
 [[files]]
@@ -1056,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
 metafile = true
 
 [[files]]
