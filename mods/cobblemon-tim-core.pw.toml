@@ -1,13 +1,13 @@
 name = "Cobblemon Tim Core"
-filename = "timcore-fabric-1.7.0-1.21.0.jar"
+filename = "timcore-fabric-1.7.0-1.25.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/lVP9aUaY/versions/djxL7gik/timcore-fabric-1.7.0-1.21.0.jar"
+url = "https://cdn.modrinth.com/data/lVP9aUaY/versions/OvCKFWuX/timcore-fabric-1.7.0-1.25.0.jar"
 hash-format = "sha512"
-hash = "7c95382466368129c37141e3c1458840cd7d1b983109872f322d41d2e8e0c7715cf5aa3d0050888c356654f616a36a2fd784e52b397fbdab9bb26c2c13f37e08"
+hash = "513e944be709393645f2aaa0ca8974a46353fc597228e4ac1b94f39227005153aa6804f6df652ee908ef27a1efb220aa256d23de9d88abdebba659f434f27c54"
 
 [update]
 [update.modrinth]
 mod-id = "lVP9aUaY"
-version = "djxL7gik"
+version = "OvCKFWuX"

@@ -3,11 +3,11 @@ filename = "Rad Gyms [Cobblemon]-0.3-alpha.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eF8kqlHd/versions/J2WQL5hY/Rad%20Gyms%20%5BCobblemon%5D-0.3-alpha.1.jar"
+url = "https://cdn.modrinth.com/data/eF8kqlHd/versions/3YDEmZwD/Rad%20Gyms%20%5BCobblemon%5D-0.3-alpha.1.jar"
 hash-format = "sha512"
-hash = "5a9e8bd1325f5ba1b3837bb8bc94b70d516408f23bc68d858d27063ec060c109448ad9d5c9993d6e91ee77da8b0296181ea2aa40237a3e072ec96aca96db3fe2"
+hash = "62d11516d5f03b85e1bef629fd79965e0ec8e8f5576016d062b4f5600f6cb17b9b5c29e950fdf904ff2e714d55b20710ed4ae5c12bc0b3edb9b1801b58013f95"
 
 [update]
 [update.modrinth]
 mod-id = "eF8kqlHd"
-version = "J2WQL5hY"
+version = "3YDEmZwD"

@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "c808a0e1fce01c6832f8fcc281dabc6946e7a03ad395b3c10a4d16297e9eda17"
+hash = "a8bd835919d763d86c481878e1521e20e8a7012ecb6bc889a9f5db9870f2ef45"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "37f6a0d23686d12c0b41112bd74174afc528a42670ca23fb5bf906c37f32c42c"
+hash = "3e42e1b7bb8c46f016d711dbeb271e33f4b72346818c176713d4e8443ba24539"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "5f702480ec907a39e31988adad0b542969cc6b0c97091f43081acf37bc456f0f"
+hash = "1157104e93eab88b9d3c864fe5efea64497c6c4d5614aaa370a96e94a850014b"
 metafile = true
 
 [[files]]
@@ -916,17 +916,17 @@ metafile = true
 
 [[files]]
 file = "mods/rad-gyms.pw.toml"
-hash = "48e0803814c58e202353c593b83747bee1bf0ea9344d2d98eadcccd596e12268"
+hash = "a063e428bbebf4e76a9d4bf3bd667b6e76f011759055b14609edc0361a585c68"
 metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "a7fd534d041a2b8b0c5f92bceb96ab25940553f63a4b984221c8367b70ec242c"
+hash = "a757031420f4a896d94fd3a3c0d6149fef3901b8d0eac45992db6d07ffff3b6f"
 metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "b5cde9029f8ae6c2ae5f7b2f09319bf4d7f5f986a9a5a0d74c15e210e5557674"
+hash = "2788848b157527487df548b684704bc5b6afdd501cc3f507efb88e3cd20f5cfe"
 metafile = true
 
 [[files]]
