@@ -1,0 +1,13 @@
+name = "Legends & Myths (Cobblemon)"
+filename = "legends-myths-3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5EMX10qI/versions/ffm34Mmj/legends-myths-3.jar"
+hash-format = "sha512"
+hash = "2124147c9eb950df31071652cbe00f55e2123f442e1e2cd79908a2d34289baaa7e791f2cfa1b8d30409d36fadb02afde20294d76ec1526217ee85d0f1bf0c966"
+
+[update]
+[update.modrinth]
+mod-id = "5EMX10qI"
+version = "ffm34Mmj"

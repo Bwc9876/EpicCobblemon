@@ -600,8 +600,18 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "80472ed95c490b2e5a828c769f30a1b4ed2b8c502ac2d0f577f1c838aaf7ec5e"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
 metafile = true
 
 [[files]]
@@ -650,18 +660,18 @@ hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
+file = "mods/cobblefurnies.pw.toml"
+hash = "d5c2c194225075bcd748d812aa72bee771b9287851d0064cb25636415444cbf7"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-box-link.pw.toml"
 hash = "bd797d76ada01e718630cab12be8559c0f920a9c03fd3a8281df4a604f50f68e"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "f9330adcafe34384b3e9c58447aa32ef2a5979924c21d1b9e7edb6f280806d0d"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "a8bd835919d763d86c481878e1521e20e8a7012ecb6bc889a9f5db9870f2ef45"
+hash = "628efd2118d3e38f22963b3647bc5cc6342e6a018869eec00714982a1830ed59"
 metafile = true
 
 [[files]]
@@ -685,6 +695,11 @@ hash = "0d9bed2aac9165087b2d35fb84e77a2962977ab936f99ad26121b760ddf497ee"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "25c69b6d03bd0cd0ad66a6b44af07dbe748bf008300abbde356b7775259b590f"
 metafile = true
@@ -697,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "e16d6a33648db866dedba7b9f76698025fb5ae4942bb0ea0ed5761135ed0cb99"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
@@ -731,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "53f9648ce088fd8547967a8db379e2b961e200f63da49ead894e676ca19c3851"
+hash = "4898b9beb1b7cf7df38346b02d9756c10e09408b6344e3295fe7177b25549f14"
 metafile = true
 
 [[files]]
@@ -750,6 +770,11 @@ hash = "76ba469ba67cdf17276da7a629ff85518f4c1dfaaae5ad28d9ee2d6bc79439c5"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "042f728dec63269f5906f49687ee3049857dafc94452a55c3d2dee020f61b107"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
 metafile = true
@@ -762,6 +787,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "ad4e8689c50fedd770fb5cf28561edbd41f6b483bcfd6e3dd3d0c337789c0110"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
 
 [[files]]
@@ -780,8 +810,18 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "43419651a1c8ee71281ce6d607fba199f0e87ba41f9725caa65b4dab2e589d49"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "907ed71a8d572d5bc2a8f956b0b0d0fad37e1d5bdd48464041a76ef8fca79cb7"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "40b85465f985bcb300b89018271103db50340ac99949502fc3ff64fb50bcbbae"
 metafile = true
 
 [[files]]
@@ -835,6 +875,16 @@ hash = "e226757905a685aa4b5a61f3d060d55a01bbd043aabd18d3e8287dd2d8ebfb7b"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "fe5dca9e3c5228303fb0777accac0b631597dd3ce1e60b27b6d46aa2b50b36ea"
+metafile = true
+
+[[files]]
+file = "mods/legends-myths.pw.toml"
+hash = "853b8f224b1263b85aae92d9d0a759f7fffc46d809c298362561520cfa71240b"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
 metafile = true
@@ -852,11 +902,6 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
-metafile = true
-
-[[files]]
-file = "mods/minimalism_leaf_decay.pw.toml"
-hash = "b414f6aa8615c628924401d5658bc103461cb5c869893da2fd3eec7dd9a47263"
 metafile = true
 
 [[files]]
@@ -915,6 +960,11 @@ hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
+metafile = true
+
+[[files]]
 file = "mods/rctapi.pw.toml"
 hash = "a757031420f4a896d94fd3a3c0d6149fef3901b8d0eac45992db6d07ffff3b6f"
 metafile = true
@@ -932,6 +982,11 @@ metafile = true
 [[files]]
 file = "mods/satin-free-wakes.pw.toml"
 hash = "da82584dc5c26adafb4df9b69fa2ed710ead914ce8384058665fcfa85950f5fa"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
@@ -1007,6 +1062,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "e8cc2ff5dcd14a2c92fe4059e1f613aefef9358ca9259345e1e319f0bdc5054f"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "40ba02fb724926513e3483e3efd24ca7f27b8bfd3ee7f6b9f2636eee208fc617"
 metafile = true
 
 [[files]]
