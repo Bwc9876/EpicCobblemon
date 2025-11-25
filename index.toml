@@ -935,6 +935,11 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "dcc98a5208baa3e0755fe857080b18ebbb09f3cadfba1c7d8169e33be24597b5"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "6e454809d22c0967ace0a59408260da91ce80757d00eaa4720f0496fcd1fddd1"
 metafile = true
@@ -1027,6 +1032,16 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "8cd4c8bc9d0b3a0059f870c04b0fa273c32812c34e56340d3fa66c5b79cc965e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "97df1677b1871339d75f5244c74446990a6109186f3b0478961181352b23ad8d"
 metafile = true
 
 [[files]]
