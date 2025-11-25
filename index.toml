@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "c3cc5e0f14a1d555b49e521331c7101bb8415fed55cb56578cde2867764e0172"
-
-[[files]]
 file = "config/appleskin.json5"
 hash = "ab7f78056c199b438d556e3b3f431ed40313e32405fb1b287918f3117aca1191"
 
