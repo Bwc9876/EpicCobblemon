@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "c3cc5e0f14a1d555b49e521331c7101bb8415fed55cb56578cde2867764e0172"
+
+[[files]]
 file = "config/appleskin.json5"
 hash = "ab7f78056c199b438d556e3b3f431ed40313e32405fb1b287918f3117aca1191"
 
@@ -912,11 +916,6 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
-metafile = true
-
-[[files]]
-file = "mods/rad-gyms.pw.toml"
-hash = "a063e428bbebf4e76a9d4bf3bd667b6e76f011759055b14609edc0361a585c68"
 metafile = true
 
 [[files]]
