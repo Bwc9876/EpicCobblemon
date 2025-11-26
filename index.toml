@@ -1060,6 +1060,11 @@ hash = "2f05b23513f7682101e2ab609964833f1b4e8557a3c9b272f7c51d9dfa7ad254"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "fcd92853a728b92cc82d6de0adcb42b0463c6825069e30a07c707fc571dc119a"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "86b8e66a5d0bd757376928425aad3413fb4948b8057fdfddedc3697d107bac50"
 metafile = true
