@@ -700,11 +700,6 @@ hash = "708992ec10446ace4d3face03d27fa0850c3dbf24853c6c084e30de89ae8456d"
 metafile = true
 
 [[files]]
-file = "mods/cobblemonraiddens.pw.toml"
-hash = "a9119835958324c9ce6a38d0b7bfd3832e32f98fb6efa633bcfc924acc2b1885"
-metafile = true
-
-[[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "0d9bed2aac9165087b2d35fb84e77a2962977ab936f99ad26121b760ddf497ee"
 metafile = true
