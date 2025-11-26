@@ -1,0 +1,13 @@
+name = "AE Terminal View Cell Fix"
+filename = "Terminal View Cell Fix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DLesvzNX/versions/xisPqofI/Terminal%20View%20Cell%20Fix-1.0.0.jar"
+hash-format = "sha512"
+hash = "7bbd5d94e38dfaee7c4d5266253ee77c29162d0a1e2f5844ec66ed7a80627cb7b4f7459ec59d2eaf0cec2dd82bb07672629766456b8d86f571c0202923a7d47b"
+
+[update]
+[update.modrinth]
+mod-id = "DLesvzNX"
+version = "xisPqofI"

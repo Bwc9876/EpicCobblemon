@@ -1,0 +1,13 @@
+name = "AE2 Pattern Encoding Access Terminal"
+filename = "ae2-pattern-encoding-access-terminal-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qVB0pZyA/versions/nKxz9aoD/ae2-pattern-encoding-access-terminal-1.21.1-1.0.4.jar"
+hash-format = "sha512"
+hash = "e3e035d57ef1a71c09b928ad235ee66eaaa76828934b0adb569cc410eabda179cd6816caa6a5cc06ed39e1a930396b38dbbe8f98d01a5232ef05e7680ca69e3b"
+
+[update]
+[update.modrinth]
+mod-id = "qVB0pZyA"
+version = "nKxz9aoD"

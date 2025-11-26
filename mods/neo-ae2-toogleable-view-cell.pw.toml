@@ -1,0 +1,13 @@
+name = "Neo AE2 Toogleable View Cell"
+filename = "AE2 Toggleable View Cell-1.0.0 .jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CvM3w9xX/versions/v7aRRK3u/AE2%20Toggleable%20View%20Cell-1.0.0%20.jar"
+hash-format = "sha512"
+hash = "e44c10d53e0e5c7b96bedd4a3d50d3fd4997e54517de1fce1ea6af0dd87d94ca910591836de95131eacafb4414ec3285b7acfd9bca33f4754f97e32e4c7ff58f"
+
+[update]
+[update.modrinth]
+mod-id = "CvM3w9xX"
+version = "v7aRRK3u"

@@ -576,6 +576,26 @@ hash = "06365b126540a1b3b4ca5cb3d4775e563f6c2857f5c51ba42231312df6cc7d07"
 metafile = true
 
 [[files]]
+file = "mods/ae2-import-export-card.pw.toml"
+hash = "47f41878ce963e2f3cbef45bfddba12126dcd577a9dffe3908224f2cd59480c3"
+metafile = true
+
+[[files]]
+file = "mods/ae2-pattern-encoding-access-terminal.pw.toml"
+hash = "ab372b5dc50e2dda07c8e407483cc915f3d06c64339fd650a4fdc665a956ebbc"
+metafile = true
+
+[[files]]
+file = "mods/ae2-qol-recipes.pw.toml"
+hash = "0bd11ad5856e558c44060185154083447a3e940b06be350625d862749b9409a0"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -593,6 +613,16 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "4d93d1bc2eeb8c41e3d275d832b4d3eb17578414caf468aced7241ef2e58242a"
+metafile = true
+
+[[files]]
+file = "mods/applied-flux.pw.toml"
+hash = "b336f955434d7ccd26d31f8f3041e4d74271e61190c6b79f73b6d5a9367118e2"
 metafile = true
 
 [[files]]
@@ -621,8 +651,18 @@ hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
 
 [[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "12b0b7e34d631a5f2b6a544bb0a549d48201671feac81a9ce0766db091adbd6e"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
+metafile = true
+
+[[files]]
+file = "mods/betterp2p.pw.toml"
+hash = "265f8240cd459bc3f47a9029e622dc16eb638fde4b9894e79ce53305f50b90ec"
 metafile = true
 
 [[files]]
@@ -706,8 +746,18 @@ hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "0603752f5a3db14a380597c84cdb80c3b66564a69d8c7f5c4f1d35c4f2a32924"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "91d65ddecc6851a91ff7e60bfb78e3abb74aa01545677ef20d97765ed38b1af5"
 metafile = true
 
 [[files]]
@@ -756,6 +806,16 @@ hash = "c67d73440c55cc47a47ac8987da9cd01de3ad2a8f1480a304355c3e21092d2e4"
 metafile = true
 
 [[files]]
+file = "mods/extended-terminal.pw.toml"
+hash = "cd7c3eaf32290c390c03d98b85cfaa015813cf8ee99c5157832bf5182856e758"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "a0e98b12d824759f6b39eae1d428e7df6fe63a72b85d17dde4e3c002521e7261"
+metafile = true
+
+[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
@@ -771,8 +831,33 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/glodium.pw.toml"
+hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-energistics.pw.toml"
+hash = "567f997ec5a0531301e048ec41ebc3f0ade57f1fe01ada9f8568954711574012"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering-better-cloche.pw.toml"
+hash = "f16fbb3aa84ac449d719f2dcdcf09f3fe86e49cc557c4e35778535592f0937c2"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
 
 [[files]]
@@ -836,13 +921,33 @@ hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
 metafile = true
 
 [[files]]
+file = "mods/mega.pw.toml"
+hash = "4f7bd3545378ae50d94d8c20ba011d685ebe1dadc54f3588b548dc30bd9de0bc"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
+file = "mods/merequester.pw.toml"
+hash = "07bc775ce20594b6eb8dbaeac825689608f5d8a28a1b37a88995c4a22dc88a48"
+metafile = true
+
+[[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "6afce08213c05a33240e980e2b92032a6a3ad25d2a54ff8e9f56b5f00d46d45d"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "34af73fbc06558118a046d6c4c26a555337f5e971ba59b42ca13471c57127f1f"
+metafile = true
+
+[[files]]
+file = "mods/neo-ae2-toogleable-view-cell.pw.toml"
+hash = "004eb080ea1b8397fbfbcd63edade3ebc44d1d61e877c13c2ebe7d33243da685"
 metafile = true
 
 [[files]]
@@ -936,8 +1041,23 @@ hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
 metafile = true
 
 [[files]]
+file = "mods/terminal-view-cell-fix.pw.toml"
+hash = "4fe127b53973ab51b131e8831dd2105daacde2e2c4c59c3b398b89be9faa7b3a"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "bd655a806614985f8ad7a36ccde31ca70426fc207d4d4b046dd6a377e8814f18"
+metafile = true
+
+[[files]]
+file = "mods/tomtarus-cobblemon-immersive-engineering-tweaks.pw.toml"
+hash = "42326f0aefd3ac38b53f011aa9c25cb5ac073b109249e5db4103671be317d857"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "c41f6ccffb66b9095efabea4eda10dd61bdb375cbeccbab638b3c139c1b00161"
 metafile = true
 
 [[files]]
@@ -973,6 +1093,11 @@ metafile = true
 [[files]]
 file = "mods/yyzs-backpack.pw.toml"
 hash = "e0ecbadb1d9bd44332d1d2b86103ba340845d772f2e4e5ae02877555b0ba6068"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
 
 [[files]]
