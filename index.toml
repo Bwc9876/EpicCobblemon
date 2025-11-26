@@ -605,6 +605,11 @@ hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "f6e7c4ce9387487dd7214bfe5fc1c210500a67442cd1ef06183637efe82adc6c"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "80472ed95c490b2e5a828c769f30a1b4ed2b8c502ac2d0f577f1c838aaf7ec5e"
 metafile = true
@@ -616,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ddc951666b9b867b0ff7671865a33f15adb5331f3d7c8bc179e0ec86795e020f"
+hash = "6e39e7712a94830fbc2bd0b6ec73e03f54de5edfcca85da6e89a0021e9a3bf1a"
 metafile = true
 
 [[files]]
@@ -686,12 +691,17 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "3e42e1b7bb8c46f016d711dbeb271e33f4b72346818c176713d4e8443ba24539"
+hash = "5ddd52145debaa120a5980f833c9806df9e2808cee578d6dda548232deac52a3"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "708992ec10446ace4d3face03d27fa0850c3dbf24853c6c084e30de89ae8456d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens.pw.toml"
+hash = "a9119835958324c9ce6a38d0b7bfd3832e32f98fb6efa633bcfc924acc2b1885"
 metafile = true
 
 [[files]]
@@ -1081,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "e8cc2ff5dcd14a2c92fe4059e1f613aefef9358ca9259345e1e319f0bdc5054f"
+hash = "a6fa6d762556487f3ec34b332bbf3e6ad3758d1ecd046026f1a3dfd6f48d17d7"
 metafile = true
 
 [[files]]
