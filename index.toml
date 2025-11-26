@@ -1051,11 +1051,6 @@ hash = "bd655a806614985f8ad7a36ccde31ca70426fc207d4d4b046dd6a377e8814f18"
 metafile = true
 
 [[files]]
-file = "mods/tomtarus-cobblemon-immersive-engineering-tweaks.pw.toml"
-hash = "42326f0aefd3ac38b53f011aa9c25cb5ac073b109249e5db4103671be317d857"
-metafile = true
-
-[[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "c41f6ccffb66b9095efabea4eda10dd61bdb375cbeccbab638b3c139c1b00161"
 metafile = true
