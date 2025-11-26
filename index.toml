@@ -680,6 +680,11 @@ hash = "bd797d76ada01e718630cab12be8559c0f920a9c03fd3a8281df4a604f50f68e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "f9330adcafe34384b3e9c58447aa32ef2a5979924c21d1b9e7edb6f280806d0d"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "628efd2118d3e38f22963b3647bc5cc6342e6a018869eec00714982a1830ed59"
 metafile = true
