@@ -2,6 +2,11 @@ name = "Distant Horizons"
 filename = "DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Further render distance with less performance impact"
+
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/uzLZ00HG/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar"
 hash-format = "sha512"
