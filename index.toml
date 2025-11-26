@@ -1091,11 +1091,6 @@ hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
 metafile = true
 
 [[files]]
-file = "mods/yyzs-backpack.pw.toml"
-hash = "e0ecbadb1d9bd44332d1d2b86103ba340845d772f2e4e5ae02877555b0ba6068"
-metafile = true
-
-[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
