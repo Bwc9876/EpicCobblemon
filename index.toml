@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-box-link.pw.toml"
-hash = "bd507376d642397a91270f81e2107a0100a1124f001e96c8ff3a9fb47ed4e82c"
+hash = "f10d9845dab9c6ddaace8d6136ebcd094d18cf6152b7a8de3e8c0b107ecb6a68"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "92b785cf953bb09b2629dde4d160c47cfabafad5c725976d69dcc524dc1add58"
+hash = "db2ec5a84d2e3b3c0f2372113316721cefec8ea7075bf386c02a89211df0aa69"
 metafile = true
 
 [[files]]
@@ -667,17 +667,17 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "45c230e69b92ca9d9e116b05779f19bafea0b403d03699f492ffdbd997a04e86"
+hash = "92851b373f3e5e7fe44985b820dc17d5c300174f2ad1981c75a982bdbe63ca1e"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "9a8293ab4720eb6ae5baca0334c15efc8994beeaa2f3cc44293b0250347c5181"
+hash = "bbc2704d606956fb64039dcc7e6028eaef058e08456acae7a7f816bf10794f40"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "e3cb1eb238192071af93f764e3ff2c493f4f437802bb56273f664bafdea13f1d"
+hash = "e00eb126fd4cd7995facae10148f183df768b7f127466c287ef5c2b89cd5f67d"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "dfc5252f31339a2f2b900399802f2e787ebe4d6e061bd150aaef50a20d2a6d20"
+hash = "774831f9dc9f530416b2d71ed08d52502dd6ccacbe4bd0d16adbf23701ce12bc"
 metafile = true
 
 [[files]]
@@ -757,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "847b1ef4cab7e5310e058ec2118f4e257327252c230bea328afacac3b1ddd9ad"
+hash = "c67d73440c55cc47a47ac8987da9cd01de3ad2a8f1480a304355c3e21092d2e4"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "7c00f19f40531a88974f97ec30c9c1e8912ad2cbc1cbb09f70f7b57dec17c125"
+hash = "2d7e927b0efdc5e79a50505151975605b355d14d7da2a475aa8a767697911651"
 metafile = true
 
 [[files]]
@@ -892,12 +892,12 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "6654874d9fa1354511ca589b2e2ef089c5f1da6315136905bd89f0a1a3779ca3"
+hash = "e85116e75c8adb0426871b87af24ef9b5cc821ba1da5753da59c0369a6ea64f0"
 metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "fb6a22cbb1a683641e21537771f7bf573ba7ed822b7bd3f22915925166a06086"
+hash = "4a26bbf74305b66c60bf903a2e7ee6b5f315f43968d9880ea0c373a5978e688b"
 metafile = true
 
 [[files]]

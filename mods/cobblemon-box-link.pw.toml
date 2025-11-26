@@ -1,13 +1,13 @@
 name = "Cobblemon Box Link"
-filename = "cobblemonboxlink-neoforge-1.21.1-1.0.4.jar"
+filename = "cobblemonboxlink-neoforge-1.21.1-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/93tFY5AF/versions/4PvONZoH/cobblemonboxlink-neoforge-1.21.1-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/93tFY5AF/versions/jG9g44f2/cobblemonboxlink-neoforge-1.21.1-1.0.5.jar"
 hash-format = "sha512"
-hash = "2f055584be74770ad234e38ad248d9d1f0f0490711f9b659672705fadebf9eb4d545f1a9a71583ba692e0f90c38b4342ed241adc24c27c74b20bf9f4e7371cbe"
+hash = "232be9727177f645cdc140730afbf5287fea7628a8a6310cbda9db36dbcd0b0da9253dd970524ba00ce39c37dacd8ea1071d9f8ed4501fa22942c9ff96d5c054"
 
 [update]
 [update.modrinth]
 mod-id = "93tFY5AF"
-version = "4PvONZoH"
+version = "jG9g44f2"

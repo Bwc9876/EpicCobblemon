@@ -1,13 +1,13 @@
 name = "Cobblemon Tim Core"
-filename = "timcore-neoforge-1.7.0-1.19.0.jar"
+filename = "timcore-neoforge-1.7.0-1.25.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/lVP9aUaY/versions/FmsxU4Kd/timcore-neoforge-1.7.0-1.19.0.jar"
+url = "https://cdn.modrinth.com/data/lVP9aUaY/versions/ZCaYeCaY/timcore-neoforge-1.7.0-1.25.0.jar"
 hash-format = "sha512"
-hash = "f6a77db256edd35813d5b8f76b7502032587dce1623d229261542d32c2aae66e2c9efe27c1a3c8904ae7d3f69e5abda73ee22d5d1dfd11afd1d73e8942fe92e7"
+hash = "93b575ed795f486a1b0817b06d3b0e572032961b42cdbd7c5266188e294dd87d7c7a39feccefefbad51f43490f6dabd74e302e772d74781961ade4120255f587"
 
 [update]
 [update.modrinth]
 mod-id = "lVP9aUaY"
-version = "FmsxU4Kd"
+version = "ZCaYeCaY"
