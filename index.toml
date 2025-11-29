@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "628efd2118d3e38f22963b3647bc5cc6342e6a018869eec00714982a1830ed59"
+hash = "264aaf2c57d9ce3820e97d637b2d4d43f1e01dcfffceb1a8b45573118dbe8f2c"
 metafile = true
 
 [[files]]
@@ -701,12 +701,17 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "708992ec10446ace4d3face03d27fa0850c3dbf24853c6c084e30de89ae8456d"
+hash = "d0d21c8cd26fc4ddcdd03893e4b7ad5e1d1a4701a272f002f2932f9686770a6e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens.pw.toml"
+hash = "0fe751f91731eeb3cbcc323a5c26f0a6ff6b7cb3b01139c6c298e026a49345d9"
 metafile = true
 
 [[files]]
 file = "mods/cobbreeding.pw.toml"
-hash = "0d9bed2aac9165087b2d35fb84e77a2962977ab936f99ad26121b760ddf497ee"
+hash = "04c247ff830d3df40c658262eff0e40a3e7b5f64ca0c8a5e5cbce34da352bf37"
 metafile = true
 
 [[files]]
@@ -856,7 +861,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "983d9aec075a0c94e1f0f4de901688e8c5aff389be085f21534c3062804d6c70"
+hash = "e40ab1a8992d800199a6ac5a1a7411bae8141817f645c82c1fdc8c1381393f9e"
 metafile = true
 
 [[files]]
@@ -866,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "1600298f357dfdf6c2c6f457de940d9144505e8afb31a8b9c82f28bb35c2ab05"
+hash = "9b4ae6c2aea7dd9ce900c2826614c46d04b98371b3642eadd18981a49246a8af"
 metafile = true
 
 [[files]]
@@ -991,7 +996,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "2788848b157527487df548b684704bc5b6afdd501cc3f507efb88e3cd20f5cfe"
+hash = "578100e185cb857bc820a066fad53edfe9d85fb3a82847e830b1f13baf705e90"
 metafile = true
 
 [[files]]
