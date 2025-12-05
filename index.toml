@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "e4665a4ea2f5283d3d95ebd88199687e4dfd5b5002ccce20d3fccd97475c6911"
+hash = "cbe78dd5c08c79e4a079279a91d4f4e9e2f43534ceb53d3575a8ea3c2a2b45a9"
 metafile = true
 
 [[files]]
@@ -696,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "d307b3872601dc56da28e2a3d6f70f60c8738a2f98a25a24f2fa424461f0de8e"
+hash = "8d72d60014d8ff69a9061e7dd0afee9fe6e400d590484412fa83c6ddbca1b5aa"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "c101256f1378c97c9fc082cd2cebb2f90e358fc6602d11e15e65cc5d535d3528"
+hash = "fff3bd7b56f7f5866bacf83173ceb9d24c0a2684e4de6f8cb4d7f0173ff78455"
 metafile = true
 
 [[files]]
@@ -991,12 +991,12 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "a757031420f4a896d94fd3a3c0d6149fef3901b8d0eac45992db6d07ffff3b6f"
+hash = "bbfcff464ca71f5256569c4797fa77b464df3b15cea01c17f7d55ff382caa87c"
 metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "578100e185cb857bc820a066fad53edfe9d85fb3a82847e830b1f13baf705e90"
+hash = "4a9eb99dbb251ad29dc60aa3df5074dfb6590922abd2e4d3384571eee218d94a"
 metafile = true
 
 [[files]]
@@ -1017,6 +1017,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "c8bda7e40ba3e14e7e78d1c1f80be842eb6d0acd21fca7b2e6a962bc810b9e46"
+metafile = true
+
+[[files]]
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "b7518f4aa0c5028b2849d94d0d7599979e1828ceff685b09d1e39cc2763954be"
 metafile = true
 
 [[files]]
@@ -1111,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "40ba02fb724926513e3483e3efd24ca7f27b8bfd3ee7f6b9f2636eee208fc617"
+hash = "c2fe7ad62a2b0f218f952fdb96c0edff69c29a6aa9080adc5e91d012a4cb57a6"
 metafile = true
 
 [[files]]

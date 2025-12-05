@@ -1,0 +1,13 @@
+name = "SimpleTMs: TMs and TRs for Cobblemon"
+filename = "SimpleTMs-fabric-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yFqR0DNc/versions/HIU7GC0H/SimpleTMs-fabric-2.2.1.jar"
+hash-format = "sha512"
+hash = "ac6ddf73223364aa0595ddac6e6178eb9ff5a7f83f11661003a4c249d3c55b80468d9a87e54c939488a8e9c7e6a5fef7a6be5805c63f96638736027d6dd945a3"
+
+[update]
+[update.modrinth]
+mod-id = "yFqR0DNc"
+version = "HIU7GC0H"
