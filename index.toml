@@ -570,6 +570,11 @@ hash = "bd7683528356900ed53a59bbbb89017915732483111177e816d289648c32c268"
 metafile = true
 
 [[files]]
+file = "datapacks/cobblemon-legendary.pw.toml"
+hash = "a2735f62e8ae8822a6b91268aaedd375ba208566fe1d83b8e8d97d31d15d3274"
+metafile = true
+
+[[files]]
 file = "datapacks/legends-myths.pw.toml"
 hash = "c310e8bfa272e941dbb4d2181f8d3ec6511bb50a88b68a41d0af59e055b7b2de"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Cobblemon - Legendary"
+filename = "Legendary 1.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1F6zfYqY/versions/AZELD7v7/Legendary%201.3.zip"
+hash-format = "sha512"
+hash = "a1655b9622eac67c548bac84fbbd786c583a2c8b266c5655de3a18b1f4af61c9714a6bae475a6198baf827a261b17d49a336307a45d3fcdd783b54d1d7031b20"
+
+[update]
+[update.modrinth]
+mod-id = "1F6zfYqY"
+version = "AZELD7v7"
