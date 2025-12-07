@@ -1175,6 +1175,16 @@ hash = "0a6179657082b15117e18fbc80fd60538dc91024a63006e843cb5dbf1991bcbe"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "a4eebb2bda9daccc5444b8bd2d91f4ee8ce2325dd51436cb785ca33530b98ecd"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "3dae8bafdd462a599adbf8d41edb8ad3000ba440065fc026f059a76ec336f6f8"
+metafile = true
+
+[[files]]
 file = "mods/stendhal.pw.toml"
 hash = "8cd4c8bc9d0b3a0059f870c04b0fa273c32812c34e56340d3fa66c5b79cc965e"
 metafile = true
