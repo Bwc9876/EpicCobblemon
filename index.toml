@@ -190,7 +190,7 @@ hash = "653d0e0c2efd1d1a97c5ad9379cb59b8a2496e1defde33f154ad05c91663766a"
 
 [[files]]
 file = "config/openloader/options.json"
-hash = "a9076d31f99a7c047a0312f28ab47b6238efd759be1bf5e1a8d72dccf7228368"
+hash = "b406905c4cfde042932d318f6912e650e065e42524f3a68bf2ebeadafa83fcb9"
 
 [[files]]
 file = "config/openloader/resources/Cobblemon-Tips-1.0.0.zip"
@@ -565,6 +565,16 @@ file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
 hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 
 [[files]]
+file = "datapacks/cobblemon-legendary-structures.pw.toml"
+hash = "bd7683528356900ed53a59bbbb89017915732483111177e816d289648c32c268"
+metafile = true
+
+[[files]]
+file = "datapacks/legends-myths.pw.toml"
+hash = "c310e8bfa272e941dbb4d2181f8d3ec6511bb50a88b68a41d0af59e055b7b2de"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
 metafile = true
@@ -635,6 +645,11 @@ hash = "b97914d02e3e24091a3fed92803b409ba5a3773668d81292b99e1cd735184996"
 metafile = true
 
 [[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "12b0b7e34d631a5f2b6a544bb0a549d48201671feac81a9ce0766db091adbd6e"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
 metafile = true
@@ -671,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblefurnies.pw.toml"
-hash = "d5c2c194225075bcd748d812aa72bee771b9287851d0064cb25636415444cbf7"
+hash = "e4017e270ceacfe8dff8cdba6a657b903c002133a3bc88e8dbd54c6f55812b16"
 metafile = true
 
 [[files]]
@@ -685,8 +700,13 @@ hash = "c48b5f8a4bd794dfe1ac97a4245616aa63376743980b8cfc4b82f646ba1d56d8"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-legendary-structures.pw.toml"
+hash = "f94003c8ed9f325625d6d98e0ac7eb643ecf0a2826fea919cf8f5db936f57c87"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "41dc43f228ab5996e532233380548421ae9ecdbe750e3257f40a5552f92619e8"
+hash = "affdebfc7768f349bd283abd5a5ba5e031e9aac0a2866b6c0584cd953cb1c325"
 metafile = true
 
 [[files]]
@@ -975,6 +995,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/powah-refabric.pw.toml"
+hash = "bc4e69ae629bc37b8867265468f6f35392cf6b99e8c705ed2b8a020b02ebd379"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "f013040d2544856ca9f8fe4e07e040aa8a78c87ace3426743a8429d73cba81a3"
 metafile = true
@@ -991,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "bbfcff464ca71f5256569c4797fa77b464df3b15cea01c17f7d55ff382caa87c"
+hash = "07cc11abe3c78556e9e37f1bf1f30ba8ae5981e04104a4ecc56a5dd34f167c7b"
 metafile = true
 
 [[files]]
@@ -1002,6 +1027,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-emi-integration.pw.toml"
+hash = "0c4afd46bb04488972d0c63bd5fe34c985818c95de1c3d0cc1109f6dffc7745c"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "bd6908e31ff73f14ffb53be9b4895fc27a01e8e9fe441455c976803eec31d291"
 metafile = true
 
 [[files]]
@@ -1097,6 +1132,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/tsfitemcore.pw.toml"
+hash = "cb283595919693c34cfcb4511afe8474dbd78524e41f9ebe8f87e4a984dfca23"
 metafile = true
 
 [[files]]

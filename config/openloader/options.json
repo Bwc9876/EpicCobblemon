@@ -7,7 +7,7 @@
   "load_data_packs": {
     "//": "Determines if OpenLoader should load data packs.",
     "//default": true,
-    "value": false
+    "value": true
   },
   "additional_locations": {
     "//": [
@@ -26,6 +26,6 @@
       "for pack files.                                                                 "
     ],
     "//default": true,
-    "value": false
+    "value": true
   }
 }

@@ -1,0 +1,13 @@
+name = "Cobblemon: Legends Untold"
+filename = "Legends Untold v2.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FuRL3fNw/versions/C38ko2j2/Legends%20Untold%20v2.2.zip"
+hash-format = "sha512"
+hash = "e19c403c355d29c8ecaac31adb07165122e8aa0122d1aa8d5a61533ee81e3e2b70b59b27749907fe2a2363ca116649b6b15cd7bdcd5ea73e295b750340d153f3"
+
+[update]
+[update.modrinth]
+mod-id = "FuRL3fNw"
+version = "C38ko2j2"

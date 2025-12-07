@@ -1,0 +1,13 @@
+name = "Cobblemon: Legends Untold"
+filename = "cobblemon-legendary-structures-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FuRL3fNw/versions/OCcnmSvd/cobblemon-legendary-structures-2.2.jar"
+hash-format = "sha512"
+hash = "2440abd89f1399a644253a6f35b62d13c338f5c2f7307b2f8595274294c10269474a3ccf304efa2c8fe63eae0816a61d92750ca4a0739d23fc81cb1c0f545564"
+
+[update]
+[update.modrinth]
+mod-id = "FuRL3fNw"
+version = "OCcnmSvd"

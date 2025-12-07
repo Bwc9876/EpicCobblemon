@@ -1,0 +1,13 @@
+name = "Powah! ReFabric"
+filename = "Powah-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZmmmAZp7/versions/U8dtUjDy/Powah-5.1.0.jar"
+hash-format = "sha512"
+hash = "05ce02bb7b13a5e5da49f14cfc10ecab442482a4d89d130b286f5d08c23c503e37d8218fab691aebad415d56457326ba5f056347dd8f46a9fac6092a5901630f"
+
+[update]
+[update.modrinth]
+mod-id = "ZmmmAZp7"
+version = "U8dtUjDy"

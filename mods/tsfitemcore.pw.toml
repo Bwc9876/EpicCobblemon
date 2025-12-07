@@ -1,0 +1,13 @@
+name = "TSFlareon's Item Core"
+filename = "tsfitemcore-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5nVJBjnO/versions/ndakeuPg/tsfitemcore-1.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "3e592ba44b9553c73501a69541128fdbe1aba99a5d13a7a234779717fe6182af4f01722c352f9781bdbee1257a6092da15d7cede3e7fca3bd997054eccb1b8ee"
+
+[update]
+[update.modrinth]
+mod-id = "5nVJBjnO"
+version = "ndakeuPg"
