@@ -1,0 +1,13 @@
+name = "Cobblemon Loot Buffs"
+filename = "CobblemonLootBuffs1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ANkMqUKi/versions/MjyPbu46/CobblemonLootBuffs1.0.zip"
+hash-format = "sha512"
+hash = "f95f46843a0af8671bc1d12c8287783b343e65ca970d2169ba17150242eb9522ccb7f128d5954b0ef1ad93d2db9317ae5b334c7d6302cda99b8428c405f04e47"
+
+[update]
+[update.modrinth]
+mod-id = "ANkMqUKi"
+version = "MjyPbu46"

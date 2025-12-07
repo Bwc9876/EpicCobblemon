@@ -565,6 +565,21 @@ file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
 hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 
 [[files]]
+file = "datapacks/allthemons.pw.toml"
+hash = "4445b236854107c33a09589b37d8613c8316e18d48715e30ce66510fa16353f7"
+metafile = true
+
+[[files]]
+file = "datapacks/cobblemon-dyeable-mareep.pw.toml"
+hash = "51a999a25c9be9c6c26cd63f276e8719ad44b070c19c145f1948496e46737d33"
+metafile = true
+
+[[files]]
+file = "datapacks/cobblemon-fusiomon-.pw.toml"
+hash = "8a5ce132e473bbf058a53d35caa88d2fb7b07a4a75dd7025f785236cb27730a1"
+metafile = true
+
+[[files]]
 file = "datapacks/cobblemon-legendary-structures.pw.toml"
 hash = "bd7683528356900ed53a59bbbb89017915732483111177e816d289648c32c268"
 metafile = true
@@ -575,8 +590,28 @@ hash = "a2735f62e8ae8822a6b91268aaedd375ba208566fe1d83b8e8d97d31d15d3274"
 metafile = true
 
 [[files]]
+file = "datapacks/cobblemon-loot-buffs.pw.toml"
+hash = "b70a545e03c29cc2925d216221480235f433cf87037aa3749694404f2beb420d"
+metafile = true
+
+[[files]]
 file = "datapacks/legends-myths.pw.toml"
 hash = "c310e8bfa272e941dbb4d2181f8d3ec6511bb50a88b68a41d0af59e055b7b2de"
+metafile = true
+
+[[files]]
+file = "datapacks/liberty-garden.pw.toml"
+hash = "3cea3c60bdd56cb4c80831d998105ad39c35c523e64fa5a11a67f23f3de3a2ab"
+metafile = true
+
+[[files]]
+file = "datapacks/lots-o-spheal.pw.toml"
+hash = "c6f3c2c4534dd5a1f7fa2029b67f7e80e18cd717a223be9963ba2fd5e7c10255"
+metafile = true
+
+[[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
 
 [[files]]
@@ -675,6 +710,11 @@ hash = "8f534cf725f8fc338c29453a25bbff94c5adba4f4b1815863f5d0f073b8f42e3"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "a4d21da45c40e8f1e3b76c9855ea3f1c15736cf2b12475e9de3efd05f8f48a8d"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
@@ -687,6 +727,16 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
+metafile = true
+
+[[files]]
+file = "mods/cobble-caf-forms.pw.toml"
+hash = "4bbef2499d5d4f6dd41b1cf4fb3d6febe35b1010ce058cce1973ef64c6e45a9b"
+metafile = true
+
+[[files]]
+file = "mods/cobblecuisine.pw.toml"
+hash = "dd9c84c3f22e37ee533990585112642b5c9a7ede61d29e5d13330a99b9a48b02"
 metafile = true
 
 [[files]]
@@ -717,6 +767,21 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-move-inspector.pw.toml"
 hash = "784184013f308a4fbec92b2ab5610969ca33ec547fd953fcc9d50cd2095d63e2"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pasture-loot.pw.toml"
+hash = "53c24e6cc68cc8ef9e2ed99b59f4f3d113b8191940fe07425899b88a0d73e09a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-safepastures.pw.toml"
+hash = "5d00637a23df408f908b466202ffca7d255c8d1bd293b9a6ba9a002a691c5fbf"
 metafile = true
 
 [[files]]
@@ -925,6 +990,11 @@ hash = "fe5dca9e3c5228303fb0777accac0b631597dd3ce1e60b27b6d46aa2b50b36ea"
 metafile = true
 
 [[files]]
+file = "mods/legendary-monuments.pw.toml"
+hash = "693c054ed12d18310be26745471103bb33041c9dffbb47def57623204e5c0030"
+metafile = true
+
+[[files]]
 file = "mods/legends-myths.pw.toml"
 hash = "853b8f224b1263b85aae92d9d0a759f7fffc46d809c298362561520cfa71240b"
 metafile = true
@@ -995,6 +1065,11 @@ hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
 metafile = true
 
 [[files]]
+file = "mods/pickmin.pw.toml"
+hash = "bad1df3baefb9fdf7824c8d1df69d8a704fa96e2e34f7c6dc7d77678b135314d"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
@@ -1042,6 +1117,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "bd6908e31ff73f14ffb53be9b4895fc27a01e8e9fe441455c976803eec31d291"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]

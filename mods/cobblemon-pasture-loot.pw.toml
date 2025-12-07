@@ -1,0 +1,13 @@
+name = "Cobblemon Pasture Loot"
+filename = "pastureLoot-1.0.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XP2jcAo0/versions/Vn7GM1O8/pastureLoot-1.0.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "579f58910a465304cfd2e373b0066ac81daa84cce25b220943c1740ba5dee9fe0725ddaf3384a8c68aa1cea80b1cc542af3769a60e9a13bab24f8b5fd160219f"
+
+[update]
+[update.modrinth]
+mod-id = "XP2jcAo0"
+version = "Vn7GM1O8"

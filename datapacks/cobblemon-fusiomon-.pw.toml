@@ -1,0 +1,13 @@
+name = "Cobblemon Fusiomon 🧬✨"
+filename = "Cobblemon Fusiomon - By JIDAIT (1.0.0).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U0yxF34u/versions/eUL9mvOm/Cobblemon%20Fusiomon%20-%20By%20JIDAIT%20%281.0.0%29.zip"
+hash-format = "sha512"
+hash = "7ac386a2f87eb06d17c914171749097b8c81938e2409edaa8b39776b5273199b090aa75a7dfddb8d8b004149d0b6789d1123043f007e9e46124318fcdd25ad00"
+
+[update]
+[update.modrinth]
+mod-id = "U0yxF34u"
+version = "eUL9mvOm"

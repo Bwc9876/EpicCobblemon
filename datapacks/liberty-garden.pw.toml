@@ -1,0 +1,13 @@
+name = "Liberty Garden [Cobblemon]"
+filename = "Liberty Garden [v1.0].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dFvHIKTY/versions/7L1Uhl9l/Liberty%20Garden%20%5Bv1.0%5D.zip"
+hash-format = "sha512"
+hash = "8b87e2680b491c76190cd95aa4d6985c23760ddd17dd36efb13af50466d315b4723f5feacbc7c31930594ff4296dfbdeef059bde52087b3616cd098c987b4c8b"
+
+[update]
+[update.modrinth]
+mod-id = "dFvHIKTY"
+version = "7L1Uhl9l"
