@@ -38,7 +38,7 @@ hash = "1c6e2c90d4d7bbf497f83f1430507872ff3d4c3d7f2bf1585c5b3f6b74544447"
 
 [[files]]
 file = "config/fancymenu/assets/cm_textures/cm_title.png"
-hash = "a618094d8e00dbc42936fa20aa9b70c41c41924f71d88d972ca050c07b49c88a"
+hash = "7046ef984a79463da45be7858cce24d62512ae43fff00710d8ed06d9866dc1a2"
 
 [[files]]
 file = "config/fancymenu/assets/cm_textures/exit_button.png"
@@ -54,11 +54,11 @@ hash = "69770622340aa93c64660afa73497b2480b07d56a854c839351095582b0100b4"
 
 [[files]]
 file = "config/fancymenu/assets/cm_textures/icon16x16.png"
-hash = "8b4f11f73494d0860e937fdf14c14aba17aa79458b8136899c452c25f124d473"
+hash = "4117f2005adeb93aa0d14157c1db32c6041eae2a35d0c79874154b7be3989b95"
 
 [[files]]
 file = "config/fancymenu/assets/cm_textures/icon32x32.png"
-hash = "b107d1639c336295f844500db9d79d25bfa96acdf6605cc5188bf2d74b90fe26"
+hash = "bcbd948756076e1ae62fdaebc342fd71d7c5ecc3b8c9491225fe6557374add7b"
 
 [[files]]
 file = "config/fancymenu/assets/cm_textures/iconmacos.icns"
