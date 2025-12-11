@@ -1,13 +1,13 @@
 name = "Legends & Myths (Cobblemon)"
-filename = "LegendsMyths(Datapack).zip"
+filename = "legends-myths-3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5EMX10qI/versions/p3Qhnsgj/LegendsMyths%28Datapack%29.zip"
+url = "https://cdn.modrinth.com/data/5EMX10qI/versions/ffm34Mmj/legends-myths-3.jar"
 hash-format = "sha512"
-hash = "598eebbca4780766881b1160eedad71134085a70bf909b14d373e162092ef0c29c002b2fa240526e13b869852679f63b8c290d3cec24b850be5c6988a97f3de8"
+hash = "2124147c9eb950df31071652cbe00f55e2123f442e1e2cd79908a2d34289baaa7e791f2cfa1b8d30409d36fadb02afde20294d76ec1526217ee85d0f1bf0c966"
 
 [update]
 [update.modrinth]
 mod-id = "5EMX10qI"
-version = "p3Qhnsgj"
+version = "ffm34Mmj"
