@@ -710,6 +710,21 @@ hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "2dda36229536c02155b8bdc705598904b74b3e958e56bf7946785f59c3427a9b"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "b6e39fe6de4778d6213357a43abed1f246128e3fcde1c0aff6148018528d1c68"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "d3c63f438a007fc0615987f1cc2108e240a61c22a21ef643912e8591352a417f"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "8f534cf725f8fc338c29453a25bbff94c5adba4f4b1815863f5d0f073b8f42e3"
 metafile = true
