@@ -655,6 +655,11 @@ hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "a773df76089453f964bf196aae2d9e963d28fa18dde4e1a6ce9260206e6f033a"
+metafile = true
+
+[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "f6e7c4ce9387487dd7214bfe5fc1c210500a67442cd1ef06183637efe82adc6c"
 metafile = true
