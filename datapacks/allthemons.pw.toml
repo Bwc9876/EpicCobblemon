@@ -1,13 +1,13 @@
 name = "AllTheMons [Cobblemon]"
-filename = "AllTheMons R3.0.zip"
+filename = "AllTheMons [R3.1].zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JV5dvqVX/versions/KbK2OTtL/AllTheMons%20R3.0.zip"
+url = "https://cdn.modrinth.com/data/JV5dvqVX/versions/EGw7rMZ1/AllTheMons%20%5BR3.1%5D.zip"
 hash-format = "sha512"
-hash = "9c4d23d75fb6840426e297568f1cbba646598d6ee0d77e34175e428885e643f7c6524260e134cafd791298ce785647965e517116df0b45789ffe51837e7062d4"
+hash = "9427f1f903335ce832e67a88dab9a341bdce8edc175dbf2adaead39280efffacafd2ec25714ae77729ae0e7907d282a1f67eac89cae6a0668e42692e6fdab73d"
 
 [update]
 [update.modrinth]
 mod-id = "JV5dvqVX"
-version = "KbK2OTtL"
+version = "EGw7rMZ1"
