@@ -566,7 +566,7 @@ hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 
 [[files]]
 file = "datapacks/allthemons.pw.toml"
-hash = "610b056b445b78581726db4763e6fad480f8076529386eef224c5f72fbbad692"
+hash = "4445b236854107c33a09589b37d8613c8316e18d48715e30ce66510fa16353f7"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "f63753e5134374b88816973141800dcec76b7c5774c128f66e1489960fa6f58d"
+hash = "b6e39fe6de4778d6213357a43abed1f246128e3fcde1c0aff6148018528d1c68"
 metafile = true
 
 [[files]]
@@ -822,11 +822,6 @@ metafile = true
 [[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "04c247ff830d3df40c658262eff0e40a3e7b5f64ca0c8a5e5cbce34da352bf37"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "3f0036748e8d888b857990b64e1f4967e1036f998ab34db7868a9ddbf96e8199"
 metafile = true
 
 [[files]]
@@ -1066,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "acc5199aefdbb418065cf4f3554693fcf9797dc1851a36ca7bad9e660b127763"
+hash = "7d5af9f25bc04dd33ec6e55983f7c660d0802461ecad3b5a820dd05dfcef2f70"
 metafile = true
 
 [[files]]
