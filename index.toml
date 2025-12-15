@@ -197,6 +197,61 @@ file = "config/openloader/resources/Cobblemon-Tips-1.0.0.zip"
 hash = "13d123946cdbc4d06c96081f2b4316e275862d6574b4665575f32c445ca57371"
 
 [[files]]
+file = "config/openloader/resources/better-leaves.pw.toml"
+hash = "f23b343e4a4555895e697c5ce98971809056a721e4732e25ea5b6952d91c0180"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/cobblemon-nature-tips.pw.toml"
+hash = "3150263eebb8d675db95bd70e772fb17ac8d22891f90ecdde8c27d83151b2dd4"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/cobblemotion.pw.toml"
+hash = "0218fd24cb4e0b1218831462946e676848b2b6d9eba33c3e87a38ab44ce3fa02"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/default-dark-mode-expansion.pw.toml"
+hash = "54fb326705111ebf0bb78783152a8fdb6c9e0f1dddb76853b44ad2530770949c"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/default-dark-mode.pw.toml"
+hash = "19e48b773677cc0d4a448e7ec5f4d82d7c9bd21063aac3c1bf710b4a78865c53"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/e19_cobblemon_minimap_icons.pw.toml"
+hash = "7925ee20a72c3400d470b982fcd788808d25e5446b4d456afad03da484456874"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/fancy-crops.pw.toml"
+hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/icons.pw.toml"
+hash = "0f1f0274bd042b888a470955154102e0d540396e5b3af341d050f05253fdcc3f"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/low-on-fire.pw.toml"
+hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/mt-ct-d.pw.toml"
+hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/rct-trainer-textures-plus.pw.toml"
+hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
+metafile = true
+
+[[files]]
 file = "config/yosbr/config/balm-client.toml"
 hash = "e6ca77393d993b18e48a8d87115d52dad5eb0554ba3070f8919c257460fe377e"
 
@@ -566,7 +621,7 @@ hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 
 [[files]]
 file = "datapacks/allthemons.pw.toml"
-hash = "4445b236854107c33a09589b37d8613c8316e18d48715e30ce66510fa16353f7"
+hash = "610b056b445b78581726db4763e6fad480f8076529386eef224c5f72fbbad692"
 metafile = true
 
 [[files]]
@@ -601,13 +656,21 @@ metafile = true
 
 [[files]]
 file = "datapacks/liberty-garden.pw.toml"
-hash = "3cea3c60bdd56cb4c80831d998105ad39c35c523e64fa5a11a67f23f3de3a2ab"
+hash = "f9ce8568fdbd6d6923e60cfcb1f2e22bb18695cfebec56806872aa5255d29750"
 metafile = true
 
 [[files]]
 file = "datapacks/lots-o-spheal.pw.toml"
 hash = "12c1a3f9c6ab799b832c5dd36d5f806b54fd820f8344682c677c7a55ed2f30de"
 metafile = true
+
+[[files]]
+file = "flake.lock"
+hash = "2fb1f8839de07b8fc8728d4df75d061287161caf225b16c21761e4e45fdcf873"
+
+[[files]]
+file = "flake.nix"
+hash = "2642148b0af42632fca11f26af846e470da761feec5bbacbf5e5c99d919b103a"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -701,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
+hash = "22bc3769946f8306099321a56954d28fd5cdcd983860bbe3950c84dbe3b95db2"
 metafile = true
 
 [[files]]
@@ -721,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "b6e39fe6de4778d6213357a43abed1f246128e3fcde1c0aff6148018528d1c68"
+hash = "f63753e5134374b88816973141800dcec76b7c5774c128f66e1489960fa6f58d"
 metafile = true
 
 [[files]]
@@ -940,6 +1003,11 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "2e705f04feb06d4340c59aebe8430c79a48635f6cd40b5c9f9ea7e4e6500721a"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "43419651a1c8ee71281ce6d607fba199f0e87ba41f9725caa65b4dab2e589d49"
 metafile = true
@@ -1030,6 +1098,71 @@ hash = "46e175b662617498d6f250e57f3f66b1b39a40252933b3466e1ff6a7f6209725"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "f07781498edbc8b3767ebdce1c64ca9326216a7763282a7d6386242e2d38b6a1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "f5f134844b199b78f07b6f58ded80ee7b6a786d509a95687a2abb48e8dffee6b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "f48382dc8ad6b473ed5e6d050038513e56697143b1232c1ae8ff40861f06ba2f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "2a351e405d3bbf633a34f4a08deb1f4aacbcff960f4e6e44fbb67fe0e07e3044"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "99deb2f3aa9cd5d7eff3dd58e8acbb32662cbd448a10fd588c166786200e3019"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "ec897286bdccb5d9fbef02b1c9070a9bce343f592cfc22aea3c836f0446e1864"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "8675eb41c4bb4fb257451f86a79ae35aae0ce5d88a061e1adcaede311c22f4aa"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "4797458bb275c5e9c3657e353ae598ab38e07e3386092a0c13f27448bef3ddd3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "1197c76400a13a3961f70538d7acf7764436fc92899cca5bd05b9bf3027601c2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "8d4ecc66f120419b4bc09fdd14151d2a207ddec30b46ae2184300fec0031b092"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "e452f90984a20b6848e2a22493d462c597e1d0b9f10b15f6098fc56e390de376"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "70ec6df06813b68cf3082c5a52339d32397c200f6acc8c02170453200bd79165"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "6803e0debba4fb27c735ccb139d26ae4c7744b8a7d2ac500d4f56b1d411faeea"
+metafile = true
+
+[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
 metafile = true
@@ -1061,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7d5af9f25bc04dd33ec6e55983f7c660d0802461ecad3b5a820dd05dfcef2f70"
+hash = "acc5199aefdbb418065cf4f3554693fcf9797dc1851a36ca7bad9e660b127763"
 metafile = true
 
 [[files]]
@@ -1310,21 +1443,6 @@ hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-leaves.pw.toml"
-hash = "f23b343e4a4555895e697c5ce98971809056a721e4732e25ea5b6952d91c0180"
-metafile = true
-
-[[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "19e48b773677cc0d4a448e7ec5f4d82d7c9bd21063aac3c1bf710b4a78865c53"
-metafile = true
-
-[[files]]
-file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
-hash = "7925ee20a72c3400d470b982fcd788808d25e5446b4d456afad03da484456874"
-metafile = true
-
-[[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "f4a9a98cd10ccd11d790e1c264ae2b4110f38f9a7464517d1eb4eea01701c455"
 metafile = true
@@ -1332,16 +1450,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/icons.pw.toml"
-hash = "0f1f0274bd042b888a470955154102e0d540396e5b3af341d050f05253fdcc3f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-on-fire.pw.toml"
-hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
 metafile = true
 
 [[files]]

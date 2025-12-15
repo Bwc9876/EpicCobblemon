@@ -1,0 +1,13 @@
+name = "CobbleMotion v1.3 (Beta)"
+filename = "Cobblemotion_v1.3a beta hotfix.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lIDAJAby/versions/2PTPmAlr/Cobblemotion_v1.3a%20beta%20hotfix.zip"
+hash-format = "sha512"
+hash = "ee5f8e9e1b9f2acd3e32a4ee74c3f2773f6e476108176bb7e6af36755a90e3bb122a39a8f2d81ba682a02091af844df703f4a439c28872692e5f67d0e376c94b"
+
+[update]
+[update.modrinth]
+mod-id = "lIDAJAby"
+version = "2PTPmAlr"

@@ -1,0 +1,13 @@
+name = "Cobblemon Nature Tips"
+filename = "NatureTips.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CHMuS1I8/versions/cRWkWVw9/NatureTips.zip"
+hash-format = "sha512"
+hash = "1333afa89dd8e34815679048145bf611d3be319883713924c4d6e141f81db2743f0268f501f1bed4710865e331284857d55e3e770c2cad8d6bba59f17f193918"
+
+[update]
+[update.modrinth]
+mod-id = "CHMuS1I8"
+version = "cRWkWVw9"
