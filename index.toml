@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "22bc3769946f8306099321a56954d28fd5cdcd983860bbe3950c84dbe3b95db2"
+hash = "0b775ba140d7797e2456b8b09c7162f6a81de22abb7feb2e8437847cefd86d0a"
 metafile = true
 
 [[files]]
@@ -830,6 +830,11 @@ hash = "c48b5f8a4bd794dfe1ac97a4245616aa63376743980b8cfc4b82f646ba1d56d8"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-counter.pw.toml"
+hash = "5d512fabc2c8a37f06f1dfac21e99157aee56023e0af329095792b7eea676308"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-legendary-structures.pw.toml"
 hash = "f94003c8ed9f325625d6d98e0ac7eb643ecf0a2826fea919cf8f5db936f57c87"
 metafile = true
@@ -862,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "e85b6ea7b89a3b65b50a3eb414896ff3de6f7ff6d1e6f7e7979e30b19ae443dd"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-unchained.pw.toml"
+hash = "625dece6fd04e674e0a8cba7d95d4cae21b8e291122016f8a6814ae66a35b732"
 metafile = true
 
 [[files]]
