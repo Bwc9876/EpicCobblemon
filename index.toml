@@ -665,14 +665,6 @@ hash = "12c1a3f9c6ab799b832c5dd36d5f806b54fd820f8344682c677c7a55ed2f30de"
 metafile = true
 
 [[files]]
-file = "flake.lock"
-hash = "2fb1f8839de07b8fc8728d4df75d061287161caf225b16c21761e4e45fdcf873"
-
-[[files]]
-file = "flake.nix"
-hash = "2642148b0af42632fca11f26af846e470da761feec5bbacbf5e5c99d919b103a"
-
-[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
