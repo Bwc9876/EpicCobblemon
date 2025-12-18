@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "22bc3769946f8306099321a56954d28fd5cdcd983860bbe3950c84dbe3b95db2"
+hash = "0b775ba140d7797e2456b8b09c7162f6a81de22abb7feb2e8437847cefd86d0a"
 metafile = true
 
 [[files]]
@@ -930,6 +930,11 @@ hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "40be4ad7e0404bff407c28d93f9d5ae70cbf5c610c0e7693650640a3ae8354fa"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "c4db059d45610ed3022c0167eb3221ab580fad60fe7425c51ea05f71017b00ed"
 metafile = true
@@ -966,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -1006,7 +1011,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e785de906915a9056bd4db06f8b143e97ef59f281820d5d627aad0768dfc046a"
+hash = "37e14a7a0b033feafd7fc1cb82842c128b1b2f2053dd1d11206834d7fcc6f597"
 metafile = true
 
 [[files]]
@@ -1041,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "9b4ae6c2aea7dd9ce900c2826614c46d04b98371b3642eadd18981a49246a8af"
+hash = "26fd57dde103b1ea1fd028d4de1712ac2a9105ea32dc9d56e8ec7a9047d9fc73"
 metafile = true
 
 [[files]]
@@ -1091,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "f07781498edbc8b3767ebdce1c64ca9326216a7763282a7d6386242e2d38b6a1"
+hash = "d9296655ea142e8b9c4ea479c2aaee59c14c6d7f6fbc3633c1b9adf33eea0f24"
 metafile = true
 
 [[files]]
@@ -1165,6 +1170,11 @@ hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "02136827d47b338d4f1c897cfa1eb4d92bd0f5dfc5300875c9737390ffcc529a"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
@@ -1172,6 +1182,11 @@ metafile = true
 [[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "0220080e63da514cdfd5ff73355572eba1ebb0202951e12f95740ce413912fb2"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "64646bd319a1a93680b016c46454d89ea83b412e30e3c449e1960399a04468ca"
 metafile = true
 
 [[files]]
@@ -1331,7 +1346,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "3dae8bafdd462a599adbf8d41edb8ad3000ba440065fc026f059a76ec336f6f8"
+hash = "693fdc79c18086a2a939b45de97ca918d895d5a4247d2a0bba94bf53661bc705"
 metafile = true
 
 [[files]]
@@ -1387,6 +1402,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "01ceaadc4312cec47b35c619dec9875fd5600e81202980afe79f27c91d6ac311"
 metafile = true
 
 [[files]]

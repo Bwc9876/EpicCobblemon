@@ -1,13 +1,13 @@
 name = "Just Enough Effect Descriptions (JEED)"
-filename = "jeed-1.21-2.3.1-fabric.jar"
+filename = "jeed-1.21-2.3.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EO27GKs1/versions/uhT8AByn/jeed-1.21-2.3.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/EO27GKs1/versions/ACRqKDcv/jeed-1.21-2.3.2-fabric.jar"
 hash-format = "sha512"
-hash = "b4b5edba832a38e22ac050ac3f587bca9f5263f44cbbca11e42e21b28598fdd02776cda6639167aff270a15a4feac182a4644c16841194956c0397b1bcd08044"
+hash = "ea10d75a63c684b0f1a334507ff6e730057e456415f30f11d03d4db40a97b4fdf1a1cf3c25a8aac0ce5276478e1fa6773d443da4b71584db2bf0a7bded41f964"
 
 [update]
 [update.modrinth]
 mod-id = "EO27GKs1"
-version = "uhT8AByn"
+version = "ACRqKDcv"
