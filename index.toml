@@ -895,6 +895,11 @@ hash = "01e094e3599564ea056dc71f42cc10854609a5ffbb3f83415225a3bdcbf8680e"
 metafile = true
 
 [[files]]
+file = "mods/decocraft.pw.toml"
+hash = "c8811b78eb95d6ca0a328cbc20645e88ddfb2f48c9ea640619d13e9cbac5ea52"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "e16d6a33648db866dedba7b9f76698025fb5ae4942bb0ea0ed5761135ed0cb99"
 metafile = true
