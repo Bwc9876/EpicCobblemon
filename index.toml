@@ -860,6 +860,11 @@ hash = "5d00637a23df408f908b466202ffca7d255c8d1bd293b9a6ba9a002a691c5fbf"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-size-variations.pw.toml"
+hash = "faa511b494c47bd9ade4ac0132a5123c0779991d70e47b17e2eacaa4f79b6c19"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "e85b6ea7b89a3b65b50a3eb414896ff3de6f7ff6d1e6f7e7979e30b19ae443dd"
 metafile = true
@@ -1006,7 +1011,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "2e705f04feb06d4340c59aebe8430c79a48635f6cd40b5c9f9ea7e4e6500721a"
+hash = "233f29074d142207596b6711e42386c822b609e445e08ef7963fdab3540eb0e5"
 metafile = true
 
 [[files]]
@@ -1041,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e40ab1a8992d800199a6ac5a1a7411bae8141817f645c82c1fdc8c1381393f9e"
+hash = "da90cd3e799ebe55326aec7ff4eb0ec7179233600a14853608b62c782ce95e79"
 metafile = true
 
 [[files]]
@@ -1101,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "d9296655ea142e8b9c4ea479c2aaee59c14c6d7f6fbc3633c1b9adf33eea0f24"
+hash = "a593158352ce84a976a4ce52a40e9ab47f47f9067d46763c13738801e497d7b8"
 metafile = true
 
 [[files]]
@@ -1167,6 +1172,11 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
+metafile = true
+
+[[files]]
+file = "mods/mellomons.pw.toml"
+hash = "38ea5be79fddfe379f475a7793c2ec222262e098b3d23b60584445660445bb64"
 metafile = true
 
 [[files]]
@@ -1371,7 +1381,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "97df1677b1871339d75f5244c74446990a6109186f3b0478961181352b23ad8d"
+hash = "a409e49188dee9bed2cc3e36494a4edef35009a43d483323f56e0ab97f09a379"
 metafile = true
 
 [[files]]
@@ -1431,7 +1441,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "a6fa6d762556487f3ec34b332bbf3e6ad3758d1ecd046026f1a3dfd6f48d17d7"
+hash = "d9b210470eeaca6109002dcc8c1442dbbef5468bbf7be516651e7fc25b3d5c5e"
 metafile = true
 
 [[files]]
@@ -1466,7 +1476,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
+hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
 metafile = true
 
 [[files]]
