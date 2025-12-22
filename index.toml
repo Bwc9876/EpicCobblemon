@@ -207,11 +207,6 @@ hash = "3150263eebb8d675db95bd70e772fb17ac8d22891f90ecdde8c27d83151b2dd4"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/cobblemotion.pw.toml"
-hash = "0218fd24cb4e0b1218831462946e676848b2b6d9eba33c3e87a38ab44ce3fa02"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/default-dark-mode-expansion.pw.toml"
 hash = "54fb326705111ebf0bb78783152a8fdb6c9e0f1dddb76853b44ad2530770949c"
 metafile = true
@@ -224,11 +219,6 @@ metafile = true
 [[files]]
 file = "config/openloader/resources/e19_cobblemon_minimap_icons.pw.toml"
 hash = "7925ee20a72c3400d470b982fcd788808d25e5446b4d456afad03da484456874"
-metafile = true
-
-[[files]]
-file = "config/openloader/resources/fancy-crops.pw.toml"
-hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
 metafile = true
 
 [[files]]
@@ -670,6 +660,11 @@ hash = "12c1a3f9c6ab799b832c5dd36d5f806b54fd820f8344682c677c7a55ed2f30de"
 metafile = true
 
 [[files]]
+file = "datapacks/mellomons.pw.toml"
+hash = "38ea5be79fddfe379f475a7793c2ec222262e098b3d23b60584445660445bb64"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
@@ -906,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/decocraft.pw.toml"
-hash = "c8811b78eb95d6ca0a328cbc20645e88ddfb2f48c9ea640619d13e9cbac5ea52"
+hash = "b31a1aac36a6cdc4d20247a7e76cdc3b5482215f50ecc140dd4d9fdf7cd09252"
 metafile = true
 
 [[files]]
@@ -1051,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "da90cd3e799ebe55326aec7ff4eb0ec7179233600a14853608b62c782ce95e79"
+hash = "d9c18b8a4799887c3db83b46cc3f9010972085327e8b85ba4670f6539cf2f4aa"
 metafile = true
 
 [[files]]
@@ -1111,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "a593158352ce84a976a4ce52a40e9ab47f47f9067d46763c13738801e497d7b8"
+hash = "08d7dbd7b5511b856c087c2f9e7fd2ab97d9782cad49cca50a6847b48956585e"
 metafile = true
 
 [[files]]
@@ -1180,18 +1175,13 @@ hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
 metafile = true
 
 [[files]]
-file = "mods/mellomons.pw.toml"
-hash = "38ea5be79fddfe379f475a7793c2ec222262e098b3d23b60584445660445bb64"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
 metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "02136827d47b338d4f1c897cfa1eb4d92bd0f5dfc5300875c9737390ffcc529a"
+hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
 metafile = true
 
 [[files]]
