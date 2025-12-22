@@ -252,6 +252,11 @@ hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/silly-cat-textures.pw.toml"
+hash = "03865512d0918435e897c0b0316b9a91c4bfd1acb4e99b905015214695a0e9e1"
+metafile = true
+
+[[files]]
 file = "config/yosbr/config/balm-client.toml"
 hash = "e6ca77393d993b18e48a8d87115d52dad5eb0554ba3070f8919c257460fe377e"
 

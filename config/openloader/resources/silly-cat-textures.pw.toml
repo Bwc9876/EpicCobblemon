@@ -1,0 +1,13 @@
+name = "Silly Cat Textures"
+filename = "sillycat2.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zfHHb33W/versions/7SHoexcZ/sillycat2.2.zip"
+hash-format = "sha512"
+hash = "4a5f0a282ffa05406bf4c9704f2a09d15c8fd9dc14c56543ef434d3c47a88d32173c8f8bdafb467e626ba7c1137964e1756ba2442686b7242d57d645c0f8c011"
+
+[update]
+[update.modrinth]
+mod-id = "zfHHb33W"
+version = "7SHoexcZ"
