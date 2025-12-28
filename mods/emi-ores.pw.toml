@@ -1,13 +1,13 @@
 name = "EMI Ores"
-filename = "emi_ores-1.2+1.21.1+fabric.jar"
+filename = "emi_ores-1.2+1.21.1+neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/OwDhxsDZ/emi_ores-1.2%2B1.21.1%2Bfabric.jar"
+url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/1jY6MIrK/emi_ores-1.2%2B1.21.1%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "3ab30a424dc2f5c3bcb71d86ebffaa82767dd51710513bed2caa35574dd922a1f663357caeb5f4ce8e4392ad9518cafe79d281744b6c010612aef96f42eec094"
+hash = "7b01dd29400802a18e3f23bcc2057e12070d28529bf358306758b462d69ab0532aa392a4b683cb0f5cf1a20f09e5f0d965f90923e72fb2fd6476f63a55a210a7"
 
 [update]
 [update.modrinth]
 mod-id = "sG4TqDb8"
-version = "OwDhxsDZ"
+version = "1jY6MIrK"

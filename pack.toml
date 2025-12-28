@@ -1,4 +1,4 @@
-name = "Epic Cobblemon"
+name = "EpicCobblemon"
 author = "Bwc9876"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "84a786f0ba115ec3808d946baf5fdfb6cd2de9c355198fc8a4eb8e35a6f46696"
+hash = "e6eaa4cd3606a7f4a6130600546f8277ecb87ee0d34727aa0c243d0cd40eaa93"
 
 [versions]
-fabric = "0.18.2"
 minecraft = "1.21.1"
+neoforge = "21.1.217"
 
 [options]
 acceptable-game-versions = ["1.21"]

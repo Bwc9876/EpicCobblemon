@@ -1,13 +1,13 @@
 name = "TSFlareon's Item Core"
-filename = "tsfitemcore-1.0.0-fabric.jar"
+filename = "tsfitemcore-1.0.0-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5nVJBjnO/versions/ndakeuPg/tsfitemcore-1.0.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/5nVJBjnO/versions/eAYGwYsy/tsfitemcore-1.0.0-neoforge.jar"
 hash-format = "sha512"
-hash = "3e592ba44b9553c73501a69541128fdbe1aba99a5d13a7a234779717fe6182af4f01722c352f9781bdbee1257a6092da15d7cede3e7fca3bd997054eccb1b8ee"
+hash = "db958ca3ced8b2e1790fd113f24f2027dd9a03a24e0130bfb4fb0bd64a3e75375653710cdb140d6cf2c22c333397469dc6954dd34dd7ab7b167d163322b9b2df"
 
 [update]
 [update.modrinth]
 mod-id = "5nVJBjnO"
-version = "ndakeuPg"
+version = "eAYGwYsy"
