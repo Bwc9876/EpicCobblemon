@@ -1,0 +1,13 @@
+name = "Industrial Foregoing: Souls"
+filename = "industrial-foregoing-souls-1.21.1-1.10.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R6YQjhwo/versions/W81XF1jK/industrial-foregoing-souls-1.21.1-1.10.5.jar"
+hash-format = "sha512"
+hash = "2ade77364d9f22c261e104ad20b5ead40951b6a8853065ed2c44b2bc5d32a8429b1387fb7d8f0b3fb2bc6478c9393f25301e969b0c285eda87f7dc747a127aa8"
+
+[update]
+[update.modrinth]
+mod-id = "R6YQjhwo"
+version = "W81XF1jK"
