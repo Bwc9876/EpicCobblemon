@@ -1242,10 +1242,6 @@ hash = "9a89a97f142873b9ab62d2c7c807ac22e6f16c828282052b416a6f3f7f785a48"
 metafile = true
 
 [[files]]
-file = "req_resourcepacks/Cobblemon-Tips-1.0.0.zip"
-hash = "13d123946cdbc4d06c96081f2b4316e275862d6574b4665575f32c445ca57371"
-
-[[files]]
 file = "req_resourcepacks/better-leaves.pw.toml"
 hash = "f23b343e4a4555895e697c5ce98971809056a721e4732e25ea5b6952d91c0180"
 metafile = true
