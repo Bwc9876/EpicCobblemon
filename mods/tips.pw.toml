@@ -1,13 +1,13 @@
 name = "Tips"
-filename = "tipsmod-fabric-1.21.1-21.1.3.jar"
+filename = "tipsmod-neoforge-1.21.1-21.1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AMCbgyVw/versions/hddaV9Qg/tipsmod-fabric-1.21.1-21.1.3.jar"
+url = "https://cdn.modrinth.com/data/AMCbgyVw/versions/dFBz1Le7/tipsmod-neoforge-1.21.1-21.1.3.jar"
 hash-format = "sha512"
-hash = "353834d085e4cc6f6ad2b56ce6c8fa6d0492632b1f0ba4767a0d0f0e39fd2c18404d6bf8bb09d3828da6602d2da6312afeca9a15ed40d46ab0fbe43d85e8d11c"
+hash = "553ba2f75c0d8d2b04b116be186c41e80fce123932cd739feb04eb65cc3ea14592fc5c26a2fe59de25fc7f73b8d0bf5085ce80edc3c7d499b8cf4e7a7e95d1f2"
 
 [update]
 [update.modrinth]
 mod-id = "AMCbgyVw"
-version = "hddaV9Qg"
+version = "dFBz1Le7"

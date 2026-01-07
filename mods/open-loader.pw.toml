@@ -1,13 +1,13 @@
 name = "Open Loader"
-filename = "OpenLoader-fabric-1.21.1-21.1.5.jar"
+filename = "OpenLoader-neoforge-1.21.1-21.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KwWsINvD/versions/dX14HBtM/OpenLoader-fabric-1.21.1-21.1.5.jar"
+url = "https://cdn.modrinth.com/data/KwWsINvD/versions/Szobbnyh/OpenLoader-neoforge-1.21.1-21.1.5.jar"
 hash-format = "sha512"
-hash = "1095033cf6ef3bbd0af25e208939d2b16ca465c5a1ab33bd0207727d1e5344349360ebfadcadf8938a8d78dd8fa18fd2209883df4aa9171acd3475effce393d7"
+hash = "3a4b0b6605f30b98a9d26954f8e211e6422f1f6402d400a9f9eb32a5af065da808dd3648a839dd60e47e50c8075b6a71624e142e50fb61273a6ba505bf6b1d09"
 
 [update]
 [update.modrinth]
 mod-id = "KwWsINvD"
-version = "dX14HBtM"
+version = "Szobbnyh"

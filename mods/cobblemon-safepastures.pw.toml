@@ -3,11 +3,11 @@ filename = "SafePastures-1.1.1+1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/qpe01spE/versions/ahfbSTCi/SafePastures-1.1.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/qpe01spE/versions/s58N9Vy1/SafePastures-1.1.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "c5bffd438c3e0267cdb07f4eacee40ba4fcb41387064c0f31172651e4e137443d53c552caf407addbb13b222c5d8ad4d0c1099593e6fdbdd1b60bf8b3fda89e0"
+hash = "f71dd4bba4d186db0e77dcad1929eecf4b9364cda6339b6d4f196d07bfba8d8701ae6eb2a2d938f3b7896beaeb12b3805bbef8aca1e14a82b3a5a90d589fc06e"
 
 [update]
 [update.modrinth]
 mod-id = "qpe01spE"
-version = "ahfbSTCi"
+version = "s58N9Vy1"

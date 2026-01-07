@@ -1,13 +1,13 @@
 name = "Axes Are Weapons"
-filename = "AxesAreWeapons-1.9.1-fabric-1.21.jar"
+filename = "AxesAreWeapons-1.9.2-neoforge-1.21.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/1jvt7RTc/versions/KdxPAtZt/AxesAreWeapons-1.9.1-fabric-1.21.jar"
+url = "https://cdn.modrinth.com/data/1jvt7RTc/versions/UVPAidip/AxesAreWeapons-1.9.2-neoforge-1.21.jar"
 hash-format = "sha512"
-hash = "046ea5decf4a048727a0a40a7ff8cc6fe1d3b6af7de2d7c0a08a5d88fbb3338f9117c5658aa01e495ad8ac80c0c5e28689c11aad44e57f17e4dc35e8c2f1d167"
+hash = "33631ec92aa134e59e14d53443dbf72e6acc02943f6bdd1364ac7d8c0abbbddf39e0fb351fc8718ccbea07751dfb5857b861ab99391c5eb397b79af1cd114692"
 
 [update]
 [update.modrinth]
 mod-id = "1jvt7RTc"
-version = "KdxPAtZt"
+version = "UVPAidip"

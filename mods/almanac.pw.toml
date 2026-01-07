@@ -1,13 +1,13 @@
 name = "Almanac"
-filename = "Almanac-1.21.1-2-fabric-1.5.0.jar"
+filename = "Almanac-1.21.1-2-neoforge-1.5.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Gi02250Z/versions/PntWxGkY/Almanac-1.21.1-2-fabric-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/Gi02250Z/versions/Esy04ZZ2/Almanac-1.21.1-2-neoforge-1.5.0.jar"
 hash-format = "sha512"
-hash = "b2c8f89c615cd1279977b479dcc1aedc273f941c9d1eec91b6af97d57629e03d9213fade87755922bb19456ed72d2a033e08323a388a2e607cb0cb6612ee68ef"
+hash = "7115e29058b9a86124404c2821a70d8df231344e57b288314aa9509b7a57ed5d2f13d561d41ace72ee889026c85230e8b1c9b2ad1b984b64bee8ab0f74cf6a45"
 
 [update]
 [update.modrinth]
 mod-id = "Gi02250Z"
-version = "PntWxGkY"
+version = "Esy04ZZ2"

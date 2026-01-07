@@ -1,13 +1,13 @@
 name = "Decocraft"
-filename = "decocraft-3.0.7-1.21.1-fabric.jar"
+filename = "decocraft-3.0.7-1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IZJSgKZe/versions/A6gPwaxM/decocraft-3.0.7-1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/IZJSgKZe/versions/O3EnrZwo/decocraft-3.0.7-1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "7c868d5428ee56bdc9328b5ab1c79f784c4990006bee7be8d1a2ce6f5b376cd63f69a9b623bbcdf83e1ffdf8b8dc3341b595a1f2c1a04257fe39c3b76f225be0"
+hash = "d5324aa644652c277dd3579b84a9d222adf487f62419aeb80c1bc298b815f713f16569bc7825354a254af2d48b6b7bb0aa8cc6735db4ca584c5107ffafc995ac"
 
 [update]
 [update.modrinth]
 mod-id = "IZJSgKZe"
-version = "A6gPwaxM"
+version = "O3EnrZwo"

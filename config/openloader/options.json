@@ -17,7 +17,7 @@
       "absolute paths.                                                                 "
     ],
     "//default": [],
-    "value": ["config/openloader/resources"]
+    "value": ["req_resourcepacks"]
   },
   "load_datapacks_dir": {
     "//": [

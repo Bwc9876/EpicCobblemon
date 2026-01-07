@@ -1,13 +1,13 @@
 name = "Athena"
-filename = "athena-fabric-1.21-4.0.2.jar"
+filename = "athena-neoforge-1.21-4.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/7PcGW9Vp/athena-fabric-1.21-4.0.2.jar"
+url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/SVhR1m5N/athena-neoforge-1.21-4.0.2.jar"
 hash-format = "sha512"
-hash = "4e2c7d1c8601be50229c94ded45b700adeef2f89ac5e713792603f678228c9fd4595301a857b09a2a8737298701b553555d9ef80ee139a2a774f0516c572afdc"
+hash = "c1756365b28d4c6c62416f0332a0e2d591142ae9ea5e5c1e0ae640eb9ae172565c08ef6c11e29c062f4db78a3dd187dba6837fbca1e0f38e12a2b4e48ec5ed88"
 
 [update]
 [update.modrinth]
 mod-id = "b1ZV3DIJ"
-version = "7PcGW9Vp"
+version = "SVhR1m5N"
