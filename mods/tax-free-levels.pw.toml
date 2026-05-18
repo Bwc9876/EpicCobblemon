@@ -1,13 +1,13 @@
 name = "Tax Free Levels"
-filename = "TaxFreeLevels-1.4.7-neoforge-1.21.1.jar"
+filename = "TaxFreeLevels-1.4.18-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/eD8qmM43/TaxFreeLevels-1.4.7-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/HlTgbIUC/TaxFreeLevels-1.4.18-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "f02e7c8ba0aacca9a04db0861fb61e3940cba767a77fea347f65f86fd9443a52cfee85d96678bdf2cb935970eb98c8573673d03b1263e0b6f6bcdfbd9ecc39b5"
+hash = "cce84ad17450a8b94ef277c7c50468a4468cf95a9cbc0c99c3283ffd7ff32cc3bf071030409943bdee35579fb8c3b0878a10493d8ef95dda3df97f49e630923e"
 
 [update]
 [update.modrinth]
 mod-id = "jCBrrLTs"
-version = "eD8qmM43"
+version = "HlTgbIUC"
