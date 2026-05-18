@@ -1327,16 +1327,6 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage-emi-integration.pw.toml"
-hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "8b68bc0a52bd726f19e8b855d87b7855c60dc243024fc1100ef9894d7abfa6be"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -1469,11 +1459,6 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "e11060ffe4bfc83dd5094a05cfd1248728373c592226d9fc30877563232e0c22"
 metafile = true
 
 [[files]]
