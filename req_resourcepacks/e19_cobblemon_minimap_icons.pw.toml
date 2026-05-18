@@ -3,11 +3,11 @@ filename = "E19 Cobblemon Minimap Icons.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Va3BanZa/versions/OQgouS3q/E19%20Cobblemon%20Minimap%20Icons.zip"
+url = "https://cdn.modrinth.com/data/Va3BanZa/versions/YGgixlha/E19%20Cobblemon%20Minimap%20Icons.zip"
 hash-format = "sha512"
-hash = "0c165936d683e12aa5bf35a83245fbfd89707d24fbdbe11a3ca917ffe5bb683f4bf9789df24f4f82600fc05aded7efcf6d7f1b56e576140b24c2521ffa343470"
+hash = "8c7d5b964ee28456f8bd5ad6d8d0905e72b5287d38872b75e24762f9cbee6664d61c41ac52443283688dc939c6f9d36512e9a849af0f9118e69d64a55fece196"
 
 [update]
 [update.modrinth]
 mod-id = "Va3BanZa"
-version = "OQgouS3q"
+version = "YGgixlha"

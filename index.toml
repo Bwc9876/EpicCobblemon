@@ -1248,7 +1248,7 @@ metafile = true
 
 [[files]]
 file = "req_resourcepacks/better-leaves.pw.toml"
-hash = "f23b343e4a4555895e697c5ce98971809056a721e4732e25ea5b6952d91c0180"
+hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
 metafile = true
 
 [[files]]
@@ -1258,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "req_resourcepacks/default-dark-mode-expansion.pw.toml"
-hash = "54fb326705111ebf0bb78783152a8fdb6c9e0f1dddb76853b44ad2530770949c"
+hash = "8b751a0ec30b1d3b1dfe0b9a15dc0aa554c678afa01ee218176fe81b7c1d868f"
 metafile = true
 
 [[files]]
@@ -1268,17 +1268,17 @@ metafile = true
 
 [[files]]
 file = "req_resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
-hash = "7925ee20a72c3400d470b982fcd788808d25e5446b4d456afad03da484456874"
+hash = "224356816f38b00457a54268435fc051f03b8f649cf9df099c676e5641f9b57f"
 metafile = true
 
 [[files]]
 file = "req_resourcepacks/icons.pw.toml"
-hash = "0f1f0274bd042b888a470955154102e0d540396e5b3af341d050f05253fdcc3f"
+hash = "2adb482dba199855d731fe4facbde0941198affe78ff24460177a7d2a00109af"
 metafile = true
 
 [[files]]
 file = "req_resourcepacks/low-on-fire.pw.toml"
-hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
+hash = "3de08682f1efe89c598c7145469d53d114714ea157104d0cc56a56b2e7b54160"
 metafile = true
 
 [[files]]
@@ -1303,7 +1303,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
