@@ -718,7 +718,7 @@ hash = "893ed5d871ac45eebd955e287d8ab517a5d96190ac834a6d4a3d52dae914d6bd"
 
 [[files]]
 file = "datapacks/allthemons.pw.toml"
-hash = "610b056b445b78581726db4763e6fad480f8076529386eef224c5f72fbbad692"
+hash = "199cbf9de616844d09c34f5c60e7025a1310a4a921f4ffdb872e0aba935a47f5"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "datapacks/cobblemon-legendary.pw.toml"
-hash = "a2735f62e8ae8822a6b91268aaedd375ba208566fe1d83b8e8d97d31d15d3274"
+hash = "e024705ef29bf2679f193f6a5c09227aba2b61b2d6bed1eb674d20a76e18e60f"
 metafile = true
 
 [[files]]
@@ -748,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "datapacks/legends-myths.pw.toml"
-hash = "853b8f224b1263b85aae92d9d0a759f7fffc46d809c298362561520cfa71240b"
+hash = "0d9b9cbdb6711650350c81d1a7d919b4fc3cef328e9d3a2bf7e14c23dabaab78"
 metafile = true
 
 [[files]]
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "datapacks/lots-o-spheal.pw.toml"
-hash = "12c1a3f9c6ab799b832c5dd36d5f806b54fd820f8344682c677c7a55ed2f30de"
+hash = "cb21fbce59e4a217c8eeaf120eafbed367db2fbdf6d31386f543291e3bdb9121"
 metafile = true
 
 [[files]]

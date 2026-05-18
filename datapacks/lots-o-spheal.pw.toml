@@ -1,13 +1,13 @@
 name = "Lots o Spheal [Cobblemon addon]"
-filename = "lots_o_Spheal_icons_of_indigo.zip"
+filename = "lots_o_spheal_a_surfers_dream.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/665fvWkx/versions/tH3cbnwe/lots_o_Spheal_icons_of_indigo.zip"
+url = "https://cdn.modrinth.com/data/665fvWkx/versions/F8YhkV3L/lots_o_spheal_a_surfers_dream.zip"
 hash-format = "sha512"
-hash = "cbbbe77adb514f67b7d2dedcbf7691424d10d7cdf633360e86bc96b5bb525e00cd3931391a166aec2b8573c8cde577be24d3d61575989e6907f96c5eec712508"
+hash = "a4336517f3b09c6ed135f0979395a8d5688b4f5c53f4671421a9cd56fd9dedb2b33aa69dc6fb888800dbee52841030c23de1b32e0016f8482c818300cf8fb691"
 
 [update]
 [update.modrinth]
 mod-id = "665fvWkx"
-version = "tH3cbnwe"
+version = "F8YhkV3L"
