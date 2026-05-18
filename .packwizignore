@@ -1,4 +1,5 @@
 .github/
+.jj/
 flake.nix
 flake.lock
 result
