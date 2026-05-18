@@ -717,6 +717,11 @@ file = "config/simplemenu/logo/logo.png"
 hash = "893ed5d871ac45eebd955e287d8ab517a5d96190ac834a6d4a3d52dae914d6bd"
 
 [[files]]
+file = "datapacks/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "a7552a82a8b8ec3148bccd029b054ecc74b2e4d94adddc08184177e89bb34917"
+metafile = true
+
+[[files]]
 file = "datapacks/allthemons.pw.toml"
 hash = "199cbf9de616844d09c34f5c60e7025a1310a4a921f4ffdb872e0aba935a47f5"
 metafile = true
