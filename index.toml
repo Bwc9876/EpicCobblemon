@@ -1017,6 +1017,11 @@ hash = "ed9c02dd76c8725c225906800f09a184a6d9089fcdd5a889f411d0aeff49a65f"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "702a028e2d428d352b4d664a21b0fb6182c20a930888a6c962f557aeba05871f"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "a246c345f9568f6b244d017c4201c6170b1ad54808c9c4799c146a0a794663aa"
 metafile = true
