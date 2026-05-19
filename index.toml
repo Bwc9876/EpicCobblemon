@@ -1362,11 +1362,6 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
-file = "mods/rrdiscordbridge.pw.toml"
-hash = "6c9b3136878d60e40526e1448d97e8ed91cc62218a9ae133e4b2389793f4198a"
-metafile = true
-
-[[files]]
 file = "mods/satin-free-wakes.pw.toml"
 hash = "da82584dc5c26adafb4df9b69fa2ed710ead914ce8384058665fcfa85950f5fa"
 metafile = true
