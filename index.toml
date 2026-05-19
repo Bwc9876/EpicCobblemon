@@ -837,6 +837,11 @@ hash = "e07e26a8bf2af1dd03c09f0361cc0b0067fbc20c8f0612c9f800113427b12c9d"
 metafile = true
 
 [[files]]
+file = "mods/dissonance.pw.toml"
+hash = "888a4dd6ef1b51baa4a4aae55e2ccbf7ab655854529d77bee5eaba4d8a857785"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "41ddb2dfcf6b2d87bd52d0fb8dc9c8c3a7e3e83f9f1cbf9c495ab195333dfbd9"
 metafile = true
@@ -1329,6 +1334,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/rrdiscordbridge.pw.toml"
+hash = "6c9b3136878d60e40526e1448d97e8ed91cc62218a9ae133e4b2389793f4198a"
 metafile = true
 
 [[files]]

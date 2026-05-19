@@ -1,0 +1,13 @@
+name = "Dissonance"
+filename = "dissonance-neoforge-1.21.1-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/S3zfMhs5/versions/5ovKew3C/dissonance-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "e8ce598d497a27fb7b2b9c50d4b902b3db6df84d92c7c8af057adac747c6cafdca31a79acf390f25eb628ee0a24b0d18e8d2aab030f8087530d4d23304a98d62"
+
+[update]
+[update.modrinth]
+mod-id = "S3zfMhs5"
+version = "5ovKew3C"
