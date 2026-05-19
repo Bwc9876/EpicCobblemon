@@ -577,6 +577,11 @@ hash = "fc1e0cdcf649784186fdf7ccaa617f615fe9c8defdaad497482d923460cb10ef"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "3434f9ec77694349b7b83e79ef179be25c8eeae83049a75d154098edb5a19889"
 metafile = true
@@ -1262,6 +1267,11 @@ hash = "669ff73fc0b07ae941adfd1a8eae3597e493c48cea222195c99d3b7a7dc7096b"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
 metafile = true
@@ -1329,6 +1339,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "1134f984e86802d46b0194e25526e7c52b6b221e1fbca304491ae318a4d634b5"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-artifacts.pw.toml"
+hash = "97d6e833cc930ad0a4ca5f33ff9dd58a2c890d310faa5d0c5f88085731566df6"
 metafile = true
 
 [[files]]
