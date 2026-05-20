@@ -1557,16 +1557,6 @@ hash = "3150263eebb8d675db95bd70e772fb17ac8d22891f90ecdde8c27d83151b2dd4"
 metafile = true
 
 [[files]]
-file = "req_resourcepacks/default-dark-mode-expansion.pw.toml"
-hash = "8b751a0ec30b1d3b1dfe0b9a15dc0aa554c678afa01ee218176fe81b7c1d868f"
-metafile = true
-
-[[files]]
-file = "req_resourcepacks/default-dark-mode.pw.toml"
-hash = "19e48b773677cc0d4a448e7ec5f4d82d7c9bd21063aac3c1bf710b4a78865c53"
-metafile = true
-
-[[files]]
 file = "req_resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
 hash = "224356816f38b00457a54268435fc051f03b8f649cf9df099c676e5641f9b57f"
 metafile = true
