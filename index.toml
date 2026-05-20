@@ -1242,6 +1242,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/navas-zamega.pw.toml"
+hash = "c26813c0d001083592dd7f12a1bde79972c8d24a7ea2e9dbf59f84b52cae4da9"
+metafile = true
+
+[[files]]
 file = "mods/neo-language-reload.pw.toml"
 hash = "a0944618e248813a3d624faec2aa631f9e6f8b207fa92e49cbdb565e44704762"
 metafile = true
