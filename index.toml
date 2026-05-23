@@ -562,6 +562,11 @@ hash = "3ac93fcf9be618db321efebbbd55045878dec6119fa05b3188cbda746c978748"
 metafile = true
 
 [[files]]
+file = "mods/ars-numerichud.pw.toml"
+hash = "5d2eb89720ab0e767cd03b8cd943f08eb143996baf23dbc48ab75b0f02407ca2"
+metafile = true
+
+[[files]]
 file = "mods/ars-ocultas.pw.toml"
 hash = "b98095038b3390812f95978f1f4ca172facd56c91c1eace018751456b3fff068"
 metafile = true
