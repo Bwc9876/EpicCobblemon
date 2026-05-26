@@ -507,6 +507,11 @@ hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
 
 [[files]]
+file = "mods/appflux.pw.toml"
+hash = "d2dd958f173a21edea522d2080064f322027d672528ad26454cfc4a452eb3d71"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
