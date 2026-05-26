@@ -682,6 +682,11 @@ hash = "dd9c84c3f22e37ee533990585112642b5c9a7ede61d29e5d13330a99b9a48b02"
 metafile = true
 
 [[files]]
+file = "mods/cobbledex-rei-emi-jei.pw.toml"
+hash = "a962fc59176cc2b25537df7b8e571125e21ce14ab2435cb0864013ce642dc442"
+metafile = true
+
+[[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "9a882acc1902d51c177362abbfb5fe51dd06ee3de40297cd6d4ab58d971045ed"
 metafile = true
